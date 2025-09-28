@@ -2,7 +2,8 @@
 
 ## Product Requirements  
 **Project:** Express Towing App  
-**Team:** Keyboard Warriors — Michael Romero, Jorge Sandoval Ruiz, Andres Ojeda, Saiyam Bhakta, Ibrahim Chaudhry  
+**Team:** Keyboard Warriors<br>
+Michael Romero, Jorge Sandoval Ruiz, Andres Ojeda, Saiyam Bhakta, Ibrahim Chaudhry  
 
 ---
 
